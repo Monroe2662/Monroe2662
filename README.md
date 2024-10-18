@@ -6,4 +6,4 @@
 
 - 😄 Pronouns: He/Him
 
-- FUN FACT: I'm studying for my CEH and COMPTIA+ and  preparing for my Microsoft Certified: Azure Security Engineer Associate (AZ-500) exam 
+- FUN FACT: I'm studying for my CEH and COMPTIA A+ and  preparing for my Microsoft Certified: Azure Security Engineer Associate (AZ-500) exam 
